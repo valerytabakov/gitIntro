@@ -16,6 +16,6 @@ public class Fish extends Pet {
         return currentDepth;
     }
 	public void surface(){
-System.out.println("Diving for " + howDeep + " feet???");
+System.out.println("Diving for " + howDeep + " feet???!!!");
 }
 }
